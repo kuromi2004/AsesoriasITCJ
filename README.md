@@ -10,12 +10,10 @@ AsesoríasITCJ/
 │   ├── img/                # Imágenes del sitio
 │   └── icons/              # Íconos y gráficos decorativos
 ├── componentes/
-│   ├── inicio/             # Módulo de bienvenida y navegación
-│   ├── carrito/            # Gestión de asesorías seleccionadas
-│   ├── pagos/              # Validación y procesamiento de pagos
-│   ├── sobre-nosotros/     # Información institucional y contacto
-│   ├── autenticacion/      # Login, registro, recuperación de contraseña
-│   ├── historial/          # Historial de asesorías del usuario
-│   ├── evaluaciones/       # Reseñas y puntuaciones
-│   └── usuarios/           # Gestión de perfiles y roles
+│   ├── asesorias/          # Publicación, gestión y evaluación de asesorías
+│   ├── historial/          # Registro de asesorías realizadas por cada usuario
+│   ├── pagos/              # Validación de pagos y procesamiento de transacciones
+│   ├── atencion_cliente/   # Soporte y comunicación con usuarios
+│   ├── cuentas/            # Gestión de perfiles, roles y autenticación
+│   ├── informacion/        # Información  y general del sistema
 └── README.md               # Documentación del proyecto
